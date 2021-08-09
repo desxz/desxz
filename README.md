@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ### May the force be with you Jedi!
 
-![Star Wars](https://github.com/desxz/desxz/blob/main/light-saber-star-wars.gif)
+![Star Wars](https://github.com/desxz/desxz/blob/main/light-saber-star-wars.gif?style=centerme)
