@@ -3,6 +3,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Communicate Flutter And Arduino Using Firebase](https://mgun7.medium.com/how-to-communicate-flutter-and-arduino-using-firebase-efec9c7a926d?source=rss-de75241b9e69------2)
 - [BlockChain Based Survey Application with Flutter](https://mgun7.medium.com/ethereum-based-survey-application-with-flutter-2d99a1e36e64?source=rss-de75241b9e69------2)
 <!-- BLOG-POST-LIST:END -->
 
