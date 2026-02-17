@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
-<h3 align="center">A lazy software developer</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
